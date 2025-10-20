@@ -1,0 +1,15 @@
+{
+  "name": "TinyFrogCoin",
+  "symbol": "TFROG",
+  "description": "just a little frog",
+  "image": "https://raw.githubusercontent.com/kropka5645/gerggrergerg/4c08fcb2e5105b9f60169238a5c3926e8fa093da/2t6fea.jpeg",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/kropka5645/gerggrergerg/4c08fcb2e5105b9f60169238a5c3926e8fa093da/2t6fea.jpeg",
+        "type": "image/jpeg"
+      }
+    ]
+  }
+}
